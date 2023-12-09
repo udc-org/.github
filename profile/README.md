@@ -1,1 +1,1 @@
-![UDC's Banner](https://github.com/udc-org/.github/blob/main/assets/banner.png?raw=true)
+![UDC's Banner](https://github.com/udc-org/.github/blob/main/assets/Banner.png?raw=true)
