@@ -1,0 +1,2 @@
+# .github
+Ko'rgazma repozitoriya
